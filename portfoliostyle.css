@@ -1,3 +1,11 @@
+
+/*   Sophia Anderson
+     Comp 20, Assignment 1
+     February 2018 
+     
+     style sheet for resume.html, index.html, bio.html
+     portfolio.html   */  
+
 #header {
     text-align: center; 
     padding: 1em; 
@@ -31,12 +39,17 @@ h3 {
 
 h4 {
     font-weight: lighter;
-    font-color: grey; 
+    color: grey; 
 }
 
-#examples{
+.examples{
     margin-left: 170px;
     border-left: 2px solid gray;
     padding: 1em;
     overflow: hidden;
+}
+
+img {
+    max-width: 25%; 
+    max-height: auto; 
 }
