@@ -1,0 +1,42 @@
+#header {
+    text-align: center; 
+    padding: 1em; 
+    clear: left;
+}
+
+#name {
+    font-weight: bold; 
+    font-size: 50px; 
+}
+#position {
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-weight: bolder;
+    float: left; 
+    width: 150px; 
+    margin: 10px; 
+    padding: 1em; 
+}
+
+h3 {
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: lighter;
+    font-color: grey; 
+}
+
+#examples{
+    margin-left: 170px;
+    border-left: 2px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
